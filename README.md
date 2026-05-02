@@ -6,7 +6,8 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](www.linkedin.com/in/daniel-menezes-106b03321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-menezes-106b03321)
+
 [![E-mail](Danielmenezes324@gmail.com)
 
 
