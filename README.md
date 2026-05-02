@@ -43,18 +43,17 @@ Atualmente cursando o 2° período de Ciencia da computação na Universidade de
 
 ---
  
-### 📂 Portfólio de Projetos
- 
-#### 🗃️ Engenharia de Prompt e Aplicações em Ia
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **A corrida do prompt** | Este projeto propõe um desafio prático de engenharia de prompt, onde os participantes devem gerar resultados precisos utilizando modelos de IA com um limite de apenas cinco interações. A atividade incentiva pensamento crítico, iteração estruturada e otimização na comunicação com LLMs. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
- 
+### 📂 Engenharia de Prompt e Aplicações em Ia
+| Projeto                                             | Descrição                                                                                                                                                                                                                                                                                           |       Link      |
+| :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------: |
+| **A corrida do prompt**                             | Este projeto propõe um desafio prático de engenharia de prompt, onde os participantes devem gerar resultados precisos utilizando modelos de IA com um limite de apenas cinco interações. A atividade incentiva pensamento crítico, iteração estruturada e otimização na comunicação com LLMs.       | [Ver projeto]() |
+| **Laboratório de Classificação Visual**             | Este projeto tem como finalidade investigar como o viés em dados de treinamento pode influenciar modelos de classificação de imagens, além de refletir sobre seus impactos éticos e sociais.                                                                                                        | [Ver projeto]() |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Avaliar a precisão técnica e a conformidade de diferentes LLMs (Large Language Models) ao seguir instruções estritas.                                                                                                                                                                               | [Ver projeto]() |
+| **Engenharia Reversa**                              | Atividade voltada à reconstrução de um aplicativo funcional a partir da observação de sua interface, sem acesso ao código-fonte original. O foco está na análise de comportamento, estrutura visual e lógica de negócio, utilizando IA como ferramenta de prototipagem e desenvolvimento iterativo. | [Ver projeto]() |
+| **Do Clone ao Produto Mínimo Viável**               | Evolução de uma aplicação previamente reconstruída por engenharia reversa para uma versão autoral e diferenciada, utilizando IA como copiloto de desenvolvimento e Firebase como infraestrutura backend. O foco passa de replicação para inovação e escalabilidade.                                 | [Ver projeto]() |
+
+
+
 ---
  
 ### 🏗 Estrutura do Repositório
