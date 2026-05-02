@@ -48,7 +48,7 @@ Atualmente cursando o 2° período de Ciencia da computação na Universidade de
 #### 🗃️ Engenharia de Prompt e Aplicações em Ia
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A corrida do prompt ** | Este projeto propõe um desafio prático de engenharia de prompt, onde os participantes devem gerar resultados precisos utilizando modelos de IA com um limite de apenas cinco interações. A atividade incentiva pensamento crítico, iteração estruturada e otimização na comunicação com LLMs. | [Ver Projeto](./projeto-banco-dados/) |
+| **A corrida do prompt** | Este projeto propõe um desafio prático de engenharia de prompt, onde os participantes devem gerar resultados precisos utilizando modelos de IA com um limite de apenas cinco interações. A atividade incentiva pensamento crítico, iteração estruturada e otimização na comunicação com LLMs. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
