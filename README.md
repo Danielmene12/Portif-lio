@@ -1,5 +1,4 @@
-# Portfolio-Daniel-Menezes
-Portfolio de Daniel Menezes 
+
 
 # Daniel Menezes 
 > Estudante de Ciência da Computação
