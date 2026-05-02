@@ -1,5 +1,5 @@
-# Portiflio
-Portifólio de Daniel Menezes 
+# Portfolio-Daniel-Menezes
+Portfolio de Daniel Menezes 
 
 # Daniel Menezes 
 > Estudante de Ciência da Computação
@@ -46,10 +46,10 @@ Atualmente cursando o 2° período de Ciencia da computação na Universidade de
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Engenharia de Prompt e Aplicações em Ia
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **A corrida do prompt ** | Este projeto propõe um desafio prático de engenharia de prompt, onde os participantes devem gerar resultados precisos utilizando modelos de IA com um limite de apenas cinco interações. A atividade incentiva pensamento crítico, iteração estruturada e otimização na comunicação com LLMs. | [Ver Projeto](./projeto-banco-dados/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
