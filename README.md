@@ -18,7 +18,7 @@ Atualmente cursando o 2° período de Ciencia da computação na Universidade de
  
 * **Habilidades Técnicas:**  Python, C, C++ e Ruby
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em Desenvolvimento de  um site sobre onde  reúne varios cursos. Onde desenvolvi Front end.
+* **Experiência/Projetos Relevantes:** Desenvolvimento de um projeto básico em Python para simulação de força bruta em ambiente controlado, com foco em estudo de segurança da informação e testes de resistência de senhas. 
  
 ---
  
