@@ -81,6 +81,12 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 | :--- | :--- | :---: | :--- |
 | **A corrida do prompt** | Engenharia de Instrução (Prompt Engineering)| 02\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/A_corrida_do_prompt.md) ✅ Concluído |
 
+
+## 🤖 Inteligência Artificial
+| Atividade | Descrição Técnica | Entrega | Status |
+| :--- | :--- | :---: | :--- |
+| **Laboratório: Viés Algorítmico e Ética em IA** | (Modelagem e visão computacional aplicada.)| 02\03| [Link do Repositório]() ✅ Concluído |
+
 ---
 
 # 📊 GitHub Stats
