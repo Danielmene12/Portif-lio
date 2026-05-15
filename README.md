@@ -1,86 +1,104 @@
-
-
-# 👋 Olá, eu sou o Daniel Menezes!
+# 👋 Olá, eu sou Daniel Menezes!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudante%20de%20Ciência%20da%20Computação-blue?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Localização-São%20Paulo,%20Brasil-red?style=for-the-badge" alt="Localização">
+
+<img src="https://img.shields.io/badge/STATUS-ESTUDANTE%20DE%20CC-00C2FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCALIZAÇÃO-SÃO%20PAULO,%20BRASIL-FF8C69?style=for-the-badge"/>
+
 </p>
 
+💻 Ciência da Computação na UNICID  
+📩 Danielmenezes324@gmail.com
+
 <p align="center">
-  💻 <b>Ciência da Computação</b> na <b>Universidade de São Paulo (unicid)</b><br>
-  📧 <a href="mailto:danielmenezes324@gmail.com">danielmenezes324@gmail.com</a>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
+---
+
+# 🚀 Sobre Mim
+
+Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolvedor. Atualmente, foco em desenvolvimento de software, banco de dados e inteligência artificial.
+
+> "O maior problema do universo é que ninguém ajuda ninguém!"
+
+---
+
+# 📫 Contato
+
+- 📧 Danielmenezes324@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/daniel-menezes-106b03321)
+- 📄 [Currículo PDF](LINK_DO_CURRICULO)
+
+---
+
+# 🛠 Toolbox (Minhas Ferramentas)
+
+## 💻 Desenvolvimento & Linguagens
+
+![HTML5](https://img.shields.io/badge/HTML5-FF8C69?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00E5FF?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00E5FF?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-7FFFD4?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🗄 Banco de Dados & Infra
+
+![MySQL](https://img.shields.io/badge/MYSQL-7FFFD4?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FFFFFF?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🤖 Inteligência Artificial & No-Code
+
+![ChatGPT](https://img.shields.io/badge/CHATGPT-FFFFFF?style=for-the-badge&logo=openai&logoColor=black)
+![N8N](https://img.shields.io/badge/N8N-7FFFD4?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 🎨 Design & UI/UX
+
+![Photoshop](https://img.shields.io/badge/ADOBE%20PHOTOSHOP-00E5FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-7FFFD4?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+# 📂 Portfólio de Projetos
+
+## 🗃 Modelagem de Banco de Dados
+
+| Projeto | Descrição | Link |
+|---|---|---|
+| Sistema de Gestão Escolar | Modelagem ER e Scripts SQL | [Ver Projeto](LINK_AQUI) |
+
+---
+
+## 🤖 Inteligência Artificial
+
+| Atividade | Descrição Técnica | Entrega | Status |
+|---|---|---|---|
+| SM1 - Corrida do Prompt | Engenharia de Prompt | 02/03 | ✅ Concluído |
+| SM2 - Classificação Visual | Visão Computacional | 09/03 | ✅ Concluído |
+
+---
+
+# 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-menezes-106b03321">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 🚀 Sobre Mim
-
-Atualmente cursando o 2° período de **Ciência da Computação na USP**. Sou apaixonado por resolver problemas através da tecnologia e possuo foco dedicado à área de **Pentesting**. Tenho interesse em unir a segurança da informação com o poder da Inteligência Artificial.
-
-- 🛠️ **Habilidades Técnicas:** Python, C, C++ e Ruby.
-- 🤝 **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-- 🔐 **Foco:** Desenvolvimento de scripts para testes de invasão e resistência de senhas.
-
-> "Acredito que a curiosidade é a melhor ferramenta de um hacker ético. 🛡️"
-
----
-
-### 📫 Contato
-- 📧 [danielmenezes324@gmail.com](mailto:danielmenezes324@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-menezes-106b03321)
-
----
-
-### 🛠️ Toolbox (Minhas Ferramentas)
-
-#### 💻 Desenvolvimento & Linguagens
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-#### 🛡️ Cybersecurity & Pentesting
-![Scapy](https://img.shields.io/badge/scapy-%23EB2027.svg?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/requests-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Socket](https://img.shields.io/badge/socket-%23222222.svg?style=for-the-badge&logo=python&logoColor=white)
-![Net::HTTP](https://img.shields.io/badge/Net::HTTP-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-
-#### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### 📂 Portfólio de Projetos
-
-#### 🛡️ Segurança da Informação
-| Projeto | Descrição | Status |
-| :--- | :--- | :---: |
-| **Simulação de Força Bruta** | Projeto em Python para estudo de resistência de senhas em ambientes controlados. | ✅ Finalizado |
-
-#### 🤖 Inteligência Artificial & Engenharia de Prompt
-| Atividade | Descrição Técnica | Status |
-| :--- | :--- | :---: |
-| **A Corrida do Prompt** | Otimização de prompts para resultados precisos em até 5 iterações. | ✅ Concluído |
-| **Lab. de Classificação Visual** | Investigação de viés em dados de treinamento e impactos éticos. | ✅ Concluído |
-| **Batalha de Modelos (XML)** | Engenharia de Prompt estruturada seguindo instruções estritas. | ✅ Concluído |
-| **Engenharia Reversa** | Reconstrução de apps via análise de interface e IA. | ✅ Concluído |
-| **Do Clone ao MVP+** | Evolução de aplicação autoral com Firebase e IA Copilot. | ✅ Concluído |
-
----
-
-### 🏗 Estrutura do Repositório
-
-- `root/`: Arquivo de apresentação principal.
-- `/aula-xx-projeto/`: Pastas organizadas com código-fonte, documentação e READMEs específicos.
+# 🐍 Contribuições
 
 <p align="center">
-  <img width="880" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
+<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
 </p>
