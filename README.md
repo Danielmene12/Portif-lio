@@ -77,11 +77,9 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 ---
 
 ## 🤖 Inteligência Artificial
-
 | Atividade | Descrição Técnica | Entrega | Status |
-|---|---|---|---|
-| SM1 - Corrida do Prompt | Engenharia de Prompt | 02/03 | ✅ Concluído |
-| SM2 - Classificação Visual | Visão Computacional | 09/03 | ✅ Concluído |
+| :--- | :--- | :---: | :--- |
+| **A corrida do prompt** | Engenharia de Instrução (Prompt Engineering)| 02\03| [Link do Repositório]() ✅ Concluído |
 
 ---
 
