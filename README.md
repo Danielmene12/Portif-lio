@@ -99,20 +99,3 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 | **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07\04| [Link do Repositório]() ✅ Concluído |
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-<img src="https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg"/>
-</p>
