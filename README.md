@@ -85,6 +85,10 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 | :--- | :--- | :---: | :--- |
 | **Laboratório: Viés Algorítmico e Ética em IA** | Modelagem e visão computacional aplicada.| 09\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Laborat%C3%B3rio_de_Classifica%C3%A7%C3%A3o_Visual.md) ✅ Concluído |
 
+ Atividade | Descrição Técnica | Entrega | Status |
+| :--- | :--- | :---: | :--- |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** |Engenharia de Prompt estruturada com XML. | 23\03| [Link do Repositório]() ✅ Concluído |
+
 ---
 
 # 📊 GitHub Stats
