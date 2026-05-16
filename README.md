@@ -91,7 +91,7 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 
  Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **Engenharia Reversa** | Desconstrução e análise de arquiteturas de software.| 31\03| [Link do Repositório]() ✅ Concluído |
+| **Engenharia Reversa** | Desconstrução e análise de arquiteturas de software.| 31\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Engenharia_reversa.md) ✅ Concluído |
 
 
  Atividade | Descrição Técnica | Entrega | Status |
