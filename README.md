@@ -89,6 +89,14 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 | :--- | :--- | :---: | :--- |
 | **Batalha de Modelos & Engenharia de Prompt (XML)** |Engenharia de Prompt estruturada com XML. | 23\03| [Link do Repositório]() ✅ Concluído |
 
+ Atividade | Descrição Técnica | Entrega | Status |
+| :--- | :--- | :---: | :--- |
+| **Engenharia Reversa** | Desconstrução e análise de arquiteturas de software.| 31\03| [Link do Repositório]() ✅ Concluído |
+
+
+ Atividade | Descrição Técnica | Entrega | Status |
+| :--- | :--- | :---: | :--- |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07\04| [Link do Repositório]() ✅ Concluído |
 ---
 
 # 📊 GitHub Stats
