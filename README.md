@@ -87,7 +87,7 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 
  Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **Batalha de Modelos & Engenharia de Prompt (XML)** |Engenharia de Prompt estruturada com XML. | 23\03| [Link do Repositório]() ✅ Concluído |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** |Engenharia de Prompt estruturada com XML. | 23\03| [Link do Repositório](https://github.com/Danielmene12/Portfolio-Daniel-Menezes/blob/main/Batalha_de_Modelos_%26_Engenharia_de_Prompt%20(XML).md) ✅ Concluído |
 
  Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
