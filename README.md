@@ -96,6 +96,6 @@ Sou apaixonado por tecnologia e estou construindo minha jornada como desenvolved
 
  Atividade | Descrição Técnica | Entrega | Status |
 | :--- | :--- | :---: | :--- |
-| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07\04| [Link do Repositório]() ✅ Concluído |
+| **SM5 - Do Clone ao MVP+** | Desenvolvimento de Produto Mínimo Viável funcional.| 07\04| [Link do Repositório](https://github.com/Danielmene12/SM5---Do-Clone-ao-Produto-M-nimo-Vi-vel/blob/main/README.md) ✅ Concluído |
 ---
 
